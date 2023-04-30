@@ -1,0 +1,29 @@
+.person-card-base{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(0 0 3em #fbe661aa);
+    background-color: rgba(240, 239, 239, 0.865);
+}
+.person-card-base:hover{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.profile-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.user-image{
+    width: 95%;
+    height: 95%;
+    justify-self: center;
+
+}

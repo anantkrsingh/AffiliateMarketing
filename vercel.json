@@ -1,0 +1,24 @@
+{
+    "routes":[
+        {
+            "src":"/events",
+            "dest":"/"
+        },
+        {
+            "src":"/teams",
+            "dest":"/"
+        },
+        {
+            "src":"/about",
+            "dest":"/"
+        },
+        {
+            "src":"/contact",
+            "dest":"/"
+        },
+        {
+            "src":"/home",
+            "dest":"/"
+        }
+    ]
+}
