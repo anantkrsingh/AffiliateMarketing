@@ -52,7 +52,7 @@ export default function Footer() {
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href=""
                       ><i className="uil uil-university pr-2" style={{color:"#EA16C5"}} ></i>
-                       Amity University,Patna
+                       Patna
                        
                       </a>
                     </li>
@@ -61,7 +61,7 @@ export default function Footer() {
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href=" "
                       ><i className="uil uil-envelope pr-2" style={{color:"#EA16C5"}}></i>
-                        amiphoriaaup23@gmail.com
+                        samratshubham25@gmail.com
                       </a>
                     </li>
                     <li>
@@ -69,7 +69,7 @@ export default function Footer() {
                         className="text-blueGray-600 flex hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href="https://creative-tim.com/privacy?ref=njs-profile"
                       ><i className="uil uil-phone pr-2" style={{color:"#EA16C5"}}></i>
-                        7766992465,8340709860
+                        +91 76541 12892
                       </a>
                     </li>
                   </ul>

@@ -10,6 +10,7 @@ import About from './Pages/About'
 import Gallery from "./Pages/Gallery"
 import Register from "./Pages/RegisterForm/Register"
 import { analytics } from '../src/Firebase'
+import Scope from './Comps/Scope/Scope'
 
 
 
@@ -23,9 +24,9 @@ function App() {
           <Route path='*' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/teams' element={<Teams />} />
-          <Route path='/events' element={<Events />} />
+          <Route path='/service' element={<Events />} />
           <Route path='/contact' element={<ContactPage />} />
-          <Route path='/gallery' element={<Gallery />} />
+          <Route path='/scope' element={<Scope />} />
           <Route path='/register' element={<Register />} />
         </Routes>
       </div>

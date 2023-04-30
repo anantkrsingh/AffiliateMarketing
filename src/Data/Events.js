@@ -44,5 +44,9 @@ const data = [
       imgUrl: 'https://akristdigitized.in/20211209051050im_/http_/akristdigitized.in/assets/icons/360%20digital-marketing.png',
       description: 'Here at Akrist Digitized we provide end-to-end digital marketing services suitable for your business and try to achieve the goals that matter to you. Our work speaks for itself; we are honest and transparent when it comes to the work we do and the results that we deliver. Our services are custom-tailored for each client, big or small.\n We can start by giving you the best design experience that is Website Designing and Development, E-commerce and Mobile Responsive design are few of our core expertise.People have rightly said content is king. Better content creation leads to better business. It’s a part of our service as well. Improving digital marketing performance is our forte. We take overall digital marketing assignments. Also, we provide services in the area of viral marketing, social media campaigns, strategic marketing, and multi-level strategic marketing.\nResearch, Strategy, Specification, Design, Development, Marketing are the necessary elements required for online business\'s visibility and success. If you want clear,honest-commerce and tangible results in online businesses with the brand new website design then GET IN TOUCH NOW to see how we can help.  ',
     },
+    
   ];
   export default data
+
+
+  

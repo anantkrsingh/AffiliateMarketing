@@ -150,6 +150,9 @@
     text-align: center;
     left: 50%;
     margin: -100px 0 0 -150px;
+    top: 0;
+    left: 9rem;
+    max-width: 100%;
   }
   .logo {
     position: absolute;

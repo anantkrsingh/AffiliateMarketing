@@ -68,7 +68,7 @@ export default function Navbar() {
                                 </li>
                             </Link>
                             <li className="text-white p-2 transition-all  hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
-                                <Link to={"/events"} onClick={() => setNavbar(false)} className=' hover:tracking-wider' >Event</Link>
+                                <Link to={"/service"} onClick={() => setNavbar(false)} className=' hover:tracking-wider' >Services</Link>
                             </li>
                             <Link to={"/teams"}>
                                 <li className="text-white transition-all   p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
@@ -77,7 +77,7 @@ export default function Navbar() {
                             </Link>
                             <Link to={"/gallery"}>
                                 <li className="text-white transition-all   p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
-                                    <Link to={"/gallery"} onClick={() => setNavbar(false)} className=' hover:tracking-wider' >Gallery</Link>
+                                    <Link to={"/scope"} onClick={() => setNavbar(false)} className=' hover:tracking-wider' >Scope of Work</Link>
                                 </li>
                             </Link>
                             <Link to={"/about"}>
