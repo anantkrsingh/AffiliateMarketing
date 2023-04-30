@@ -32,7 +32,8 @@
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.9.0",
     "react-slick": "^0.29.0",
-    "react-spinners": "^0.13.8"
+    "react-spinners": "^0.13.8",
+    "swiper": "^9.2.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
