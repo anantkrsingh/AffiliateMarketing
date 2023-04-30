@@ -1,5 +1,4 @@
 export const Members = [
-    
     {
         name:"Shubham Singh",
         role:"Core Member",
