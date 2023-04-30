@@ -11,7 +11,7 @@ import Gallery from "./Pages/Gallery"
 import Register from "./Pages/RegisterForm/Register"
 import { analytics } from '../src/Firebase'
 import Scope from './Comps/Scope/Scope'
-import Client from './Pages/Client'
+
 
 
 
@@ -29,7 +29,7 @@ function App() {
           <Route path='/contact' element={<ContactPage />} />
           <Route path='/scope' element={<Scope />} />
           <Route path='/register' element={<Register />} />
-          <Route path='/client' element={<Client />} />
+          
         </Routes>
       </div>
       <Footer />
