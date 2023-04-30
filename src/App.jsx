@@ -17,7 +17,7 @@ import Scope from './Comps/Scope/Scope'
 
 function App() {
   return (
-    <div className="App align-center">
+    <div className="App align-center ">
       <Navbar />
       <div>
         <Routes>
