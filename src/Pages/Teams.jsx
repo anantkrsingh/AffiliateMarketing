@@ -6,7 +6,7 @@ import Members from '../Data/Members'
 
 function Teams() {
     return (
-        <div className='flex flex-col w-full justify-center align-center top-[3rem]'>
+        <div className='flex team-page flex-col w-full justify-center align-center '>
             <div className=' teams w-full justify-center align-center grid lg:grid-cols-4 md:p-24   '>
                 {
                     Members.map((teams, index) => {

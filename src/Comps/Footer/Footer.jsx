@@ -5,7 +5,6 @@ export default function Footer() {
 
   return (
     <>
-    
       <footer className=" bg-white h-[30vh] absolute left-0 right-0 mt-24 bg">
         <div className="container mx-auto p-8 bg-white">
           <div className="flex flex-wrap text-left lg:text-left ">
@@ -29,7 +28,7 @@ export default function Footer() {
                 >
                   <i className="fab fa-facebook-square fb rotate_btn"></i>
                 </button>
-      
+
                 <a href="https://www.instagram.com/amiphoriaaup2023/" target={"_blank"}
                   className="bg-white flex justify-self-center text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
@@ -45,22 +44,22 @@ export default function Footer() {
                     Contact
                   </span>
                   <ul className="list-unstyled">
-                    
+
                     <li>
 
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                         href=""
-                      ><i className="uil uil-university pr-2" style={{color:"#EA16C5"}} ></i>
-                       Patna
-                       
+                      ><i className="uil uil-university pr-2" style={{ color: "#EA16C5" }} ></i>
+                        Patna
+
                       </a>
                     </li>
                     <li>
                       <a
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href=" "
-                      ><i className="uil uil-envelope pr-2" style={{color:"#EA16C5"}}></i>
+                      ><i className="uil uil-envelope pr-2" style={{ color: "#EA16C5" }}></i>
                         samratshubham25@gmail.com
                       </a>
                     </li>
@@ -68,7 +67,7 @@ export default function Footer() {
                       <a
                         className="text-blueGray-600 flex hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href="https://creative-tim.com/privacy?ref=njs-profile"
-                      ><i className="uil uil-phone pr-2" style={{color:"#EA16C5"}}></i>
+                      ><i className="uil uil-phone pr-2" style={{ color: "#EA16C5" }}></i>
                         +91 76541 12892
                       </a>
                     </li>
@@ -87,13 +86,12 @@ export default function Footer() {
                   className="text-blueGray-500 hover:text-gray-800"
                   target="_blank"
                 />
-                Amity University Patna
+                Techbuzz Digitized
               </div>
             </div>
           </div>
         </div>
       </footer>
-  
-      </>
+    </>
   );
 }
