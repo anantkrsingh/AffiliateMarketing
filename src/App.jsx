@@ -14,9 +14,10 @@ import Scope from './Comps/Scope/Scope'
 
 
 
+
 function App() {
   return (
-    <div className="App align-center">
+    <div className="App align-center ">
       <Navbar />
       <div>
         <Routes>
@@ -28,6 +29,7 @@ function App() {
           <Route path='/contact' element={<ContactPage />} />
           <Route path='/scope' element={<Scope />} />
           <Route path='/register' element={<Register />} />
+          
         </Routes>
       </div>
       <Footer />
