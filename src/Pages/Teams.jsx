@@ -1,7 +1,5 @@
 import React from 'react'
 import PersonCard from '../Widgets/PersonCard'
-import Developer from '../Data/TechTeam'
-import Sponsor from '../Data/Sponsors'
 import Members from '../Data/Members'
 
 function Teams() {
