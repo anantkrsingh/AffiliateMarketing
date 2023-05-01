@@ -16,7 +16,7 @@ export default function Home() {
             <p className='amiphoria-text max-[678px]:text-7xl text'>Techbuzz Digitized</p>
             <p className='mb-4 font-[Kanit] text-xl max-[678px]:text-md'>We are team of talented Digital Marketers.</p>
             <button type="button" class=" btn-explore text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 button-grow">
-              <Link to={"/events"}>Contact Us</Link>
+              <Link to={"/contact"}>Contact Us</Link>
             </button>
             <button type="button" class=" btn-explore text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br  font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 button-grow">
               <Link to={"/events"}>Brochure</Link>

@@ -12,7 +12,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import 'swiper/css/bundle';
 
-export default function Events() {
+export default function Services() {
   return (
     <div className='events w-full justify-center align-center top-12  md:grid-cols-2 md:p-36 max-[678px]:pt-16'>
       <Swiper

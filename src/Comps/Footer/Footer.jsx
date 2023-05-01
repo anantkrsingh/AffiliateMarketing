@@ -29,7 +29,7 @@ export default function Footer() {
                   <i className="fab fa-facebook-square fb rotate_btn"></i>
                 </button>
 
-                <a href="https://www.instagram.com/amiphoriaaup2023/" target={"_blank"}
+                <a href="#" 
                   className="bg-white flex justify-self-center text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
