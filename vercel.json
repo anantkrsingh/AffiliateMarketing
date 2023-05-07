@@ -5,6 +5,14 @@
             "dest":"/"
         },
         {
+            "src":"/scope",
+            "dest":"/"
+        },
+        {
+            "src":"/service",
+            "dest":"/"
+        },
+        {
             "src":"/teams",
             "dest":"/"
         },
