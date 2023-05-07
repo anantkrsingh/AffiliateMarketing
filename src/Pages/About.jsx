@@ -40,7 +40,7 @@ function About() {
 
     </div>
     <div>
-    <h2 className=" font-sans text-center text-4xl font-bold mb-12" style={{paddingTop: '20px', color:'black'}}>Our Client</h2>
+    <h2 className=" font-sans text-center text-4xl font-bold mb-12" style={{paddingTop: '20px', color:'black'}}>Our Clients</h2>
     <Client/>
 
     </div>
