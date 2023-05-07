@@ -7,7 +7,7 @@ export default function Scope() {
       <div className='flex flex-col-reverse sm:flex-row w-screen max-w-screen-lg justify-between'>
         <div className='flex w-full sm:w-screen'>
           <p className='text-black p-6 sm:p-16 ' >
-            Akrist Digitized creates an online presence for Advertiser on the popular social media websites as identified in the addendum to this will include setting up of the profile on these committed social media websites with the right information and image representation of the advertiser
+            Techbuzz Digitized creates an online presence for Advertiser on the popular social media websites as identified in the addendum to this will include setting up of the profile on these committed social media websites with the right information and image representation of the advertiser
             <br />
             <br />
             <br />
